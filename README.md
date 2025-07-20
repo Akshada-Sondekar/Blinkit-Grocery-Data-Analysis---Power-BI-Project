@@ -92,7 +92,8 @@ This Power BI project presents an interactive analysis of Blinkit's grocery data
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+
+Dashboard_preview.png
 
 ---
 
