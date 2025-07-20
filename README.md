@@ -37,7 +37,7 @@ This Power BI project presents an interactive analysis of Blinkit's grocery data
 
 ### 📌 Chart Requirements
 
-![Business Requirements](78cba491-edcd-44db-8e65-80ae3337372a.png)
+Business Requirements
 
 1. **Total Sales by Fat Content**  
    - **Objective**: Analyze the impact of fat content on total sales.  
