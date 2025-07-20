@@ -17,7 +17,7 @@ This Power BI project presents an interactive analysis of Blinkit's grocery data
 
 ## 🧱 Steps in Project
 
-![Steps in Project](507f0699-f837-4962-91d1-bd329bff5269.png)
+[Steps in Project]
 
 1. ✅ Requirement Gathering / Business Requirements  
 2. ✅ Data Walkthrough  
@@ -33,7 +33,7 @@ This Power BI project presents an interactive analysis of Blinkit's grocery data
 
 ---
 
-## 📊 Business Requirements
+## Business Requirements
 
 ### 📌 Chart Requirements
 
